@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="logo.jpg" width="140" alt="Foto de Jonathan">
-</p>
-
-# 👋 ¡Hola! Soy Jonathan
-
-Docente de Administración de Redes, especialista en infraestructura, ciberseguridad y virtualización. Me apasiona la enseñanza con tecnología y el desarrollo de soluciones innovadoras.
-
----
-
 # 👨‍💻 Jonathan Alvarez Coloma
 
 **Especialista en Redes, Ciberseguridad y Educación Tecnológica**
@@ -22,7 +12,7 @@ Docente de Administración de Redes, especialista en infraestructura, cibersegur
 
 Soy un profesional apasionado por las **tecnologías de la información y la educación**, con experiencia en la implementación de **redes inalámbricas**, **seguridad informática**, **virtualización** y **sistemas operativos Linux**. Actualmente me desempeño como **docente** en TECSUP, donde diseño experiencias de aprendizaje significativas en carreras técnicas.
 
-También lidero el desarrollo de contenidos en cursos innovadores que integran la inteligencia artificial, dashboards con herramientas BI y redes avanzadas con equipamiento profesional de marcas como Cisco y Ubiquiti.
+Actualmente soy Docente de Administración de Redes, especialista en infraestructura, ciberseguridad y virtualización. Me apasiona la enseñanza con tecnología y el desarrollo de soluciones innovadoras.
 
 ---
 
