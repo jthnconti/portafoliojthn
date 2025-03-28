@@ -4,7 +4,7 @@
     <p style="margin-top: 5px;">Docente e Ingeniero en Redes y Comunicaciones</p>
   </div>
   <div>
-    <img src="assets/foto.jpg" alt="Jonathan Alvarez Coloma" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 2px solid #a3ff12;">
+    <img src="assets/logo.jpg" alt="Jonathan Alvarez Coloma" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 2px solid #a3ff12;">
   </div>
 </div>
 
