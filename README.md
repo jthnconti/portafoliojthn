@@ -1,13 +1,15 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="max-width: 70%;">
     <h1 style="margin-bottom: 0;">👨‍💻 Jonathan Alvarez Coloma</h1>
-    <p style="margin-top: 5px;">Docente y Especialista en Redes, Ciberseguridad y Educación Tecnológica</p>
-    📍 Arequipa, Perú  
-    ✉️ jalvarezc@tecsup.edu.pe  
-    🌐 [LinkedIn](https://www.linkedin.com/in/jonathan-ac28/)  
+    <p style="margin-top: 5px; margin-bottom: 10px;">
+      Docente y Especialista en Redes, Ciberseguridad y Educación Tecnológica
+    </p>
+    <p style="margin: 0;">📍 Arequipa, Perú</p>
+    <p style="margin: 0;">✉️ jalvarezc@tecsup.edu.pe</p>
+    <p style="margin: 0;">🌐 <a href="https://www.linkedin.com/in/jonathan-ac28/" target="_blank">LinkedIn</a></p>
   </div>
-  <div>
-    <img src="assets/logo.jpg" alt="Jonathan Alvarez Coloma" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 2px solid #a3ff12;">
+  <div style="text-align: right;">
+    <img src="assets/logo.jpg" alt="Jonathan Alvarez Coloma" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 2px solid #a3ff12; margin-top: 10px;">
   </div>
 </div>
 
