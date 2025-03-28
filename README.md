@@ -1,3 +1,13 @@
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1 style="margin-bottom: 0;">Jonathan Alvarez Coloma</h1>
+    <p style="margin-top: 5px;">Docente e Ingeniero en Redes y Comunicaciones</p>
+  </div>
+  <div>
+    <img src="assets/foto.jpg" alt="Jonathan Alvarez Coloma" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 2px solid #a3ff12;">
+  </div>
+</div>
+
 # 👨‍💻 Jonathan Alvarez Coloma
 
 **Especialista en Redes, Ciberseguridad y Educación Tecnológica**
