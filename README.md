@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="logo.jpg" width="140" alt="Foto de Jonathan">
+</p>
+
+# 👋 ¡Hola! Soy Jonathan
+
+Docente de Administración de Redes, especialista en infraestructura, ciberseguridad y virtualización. Me apasiona la enseñanza con tecnología y el desarrollo de soluciones innovadoras.
+
+---
+
 # 👨‍💻 Jonathan Alvarez Coloma
 
 **Especialista en Redes, Ciberseguridad y Educación Tecnológica**
