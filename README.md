@@ -1,4 +1,4 @@
-# 👨‍💻 Jonathan Álvarez Coloma
+# 👨‍💻 Jonathan Alvarez Coloma
 
 **Especialista en Redes, Ciberseguridad y Educación Tecnológica**
 
@@ -18,7 +18,7 @@ También lidero el desarrollo de contenidos en cursos innovadores que integran l
 
 ## 💼 Experiencia
 
-### 👨‍🏫 **Docente / Coordinador Académico**  
+### 👨‍🏫 **Docente / Colaborador Académico**  
 **TECSUP – Instituto Superior Tecnológico**  
 📅 2015 – Actualidad  
 - Diseño y ejecución de cursos de **Redes, Sistemas Operativos, Ciberseguridad y Cloud**.  
@@ -27,6 +27,56 @@ También lidero el desarrollo de contenidos en cursos innovadores que integran l
 
 ---
 
+### 🏢 iTERA S.A.C.
+**Ingeniero Preventa**  
+📍 Lima, Perú  
+🗓️ Julio 2017 - Diciembre 2019 (2 años 6 meses)  
+Jornada completa  
+
+**Funciones destacadas:**
+- Soporte preventa de soluciones como: Fortigate, ESET corporativo, Acronis, Synology, VMware, Safetica, Ubiquiti y Veeam.
+- Implementación de firewalls Fortigate (modelos: 50E, 60E, 100E, 200E).
+- Instalación y administración de servidores virtualizados con VMware vSphere 5.5 a 6.7.
+- Administración de servidores Windows: DNS, DHCP, Active Directory, File Server, Print Server y certificados digitales.
+- Soporte técnico a entornos Linux.
+- Configuración y diagnóstico de soluciones de seguridad (Safetica, ESET) y elaboración de reportes técnicos.
+
+---
+
+**Soporte TI – iTERA S.A.C.**  
+📍 San Miguel, Lima  
+🗓️ Octubre 2016 - Marzo 2017 (6 meses)
+
+**Funciones destacadas:**
+- Soporte técnico integral: remoto, presencial y telefónico.
+- Capacitación a usuarios sobre soluciones tecnológicas vendidas.
+- Implementación de backups con Acronis y NAS Synology.
+- Mantenimiento de redes y estaciones de trabajo.
+- Soporte en soluciones de seguridad como ESET, NAS Synology y Safetica.
+- Instalación de Windows Desktop y Server (2008 a 2016).
+
+---
+
+### 🛠️ EngiPerú
+**Soporte TI**  
+📍 Lima, Perú  
+🗓️ Octubre 2015 - Julio 2016 (10 meses)
+
+**Funciones destacadas:**
+- Implementación y soporte remoto de soluciones de seguridad TI.
+- Apoyo al área comercial en preventa de productos de ciberseguridad.
+- Configuración básica de infraestructura en empresas clientes.
+
+---
+
+### 🏭 Southern Peru Copper Corporation (SPCC)
+**Practicante – Control de Procesos**  
+📍 Toquepala  
+🗓️ Febrero 2015 - Julio 2015 (6 meses)
+
+**Funciones destacadas:**
+- Apoyo en monitoreo y documentación de variables de control de procesos industriales.
+- Colaboración en actividades de mejora continua dentro de planta.
 ## 🧩 Habilidades Técnicas
 
 - Redes LAN/WAN, Routing & Switching (Cisco, MikroTik, Ubiquiti)  
@@ -34,15 +84,15 @@ También lidero el desarrollo de contenidos en cursos innovadores que integran l
 - Automatización con PowerShell y Bash  
 - Seguridad Informática (Firewall, Pentesting, Endpoints)  
 - Virtualización con VMware y Proxmox  
-- Plataformas Cloud: AWS, Azure (básico)  
-- Creación de dashboards con herramientas de **BI** e integración de **IA generativa**
+- Plataformas Cloud: AWS, Azure (básico-Intermedio)  
 
 ---
 
 ## 🎓 Formación
 
-- **Ingeniero Electrónico** – UNSA  
-- Certificaciones en CCNA, Linux, Google Workspace, entre otras.
+- **Carrera Técnica: Redes y Comunicaciones de Datos** - Tecsup
+- **Ingeniería de Sistemas e Inform+atica** – Universidad Continental - Actualidad  
+- Certificaciones en CCNA, Linux, , entre otras.
 
 ---
 
@@ -50,19 +100,18 @@ También lidero el desarrollo de contenidos en cursos innovadores que integran l
 
 - 🔧 **Diseño de red WiFi empresarial con Ubiquiti**  
 - 🧪 **Implementación de laboratorios híbridos para enseñanza técnica**  
-- 📊 **Curso de Dashboards con IA para la toma de decisiones**  
-- 📡 **Programa de formación en soporte a redes industriales y domótica**
+- 📊 **Diseño de cursos para Programas de Extensión Profesional**  
+- 📡 **Implemetación de Firewalls (Fortigate-Sophos-Chekpoint) y Políticas de Seguridad Informática en Empresas**
 
 ---
 
 ## 📢 Lenguajes y Herramientas
 
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)  
-![Linux](https://img.shields.io/badge/Linux-Shell-brightgreen)  
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-blue)  
+![Linux](https://img.shields.io/badge/Linux-Shell-brightgreen)   
 ![VMware](https://img.shields.io/badge/VMware-Virtualization-orange)  
-![BI](https://img.shields.io/badge/BI-Dashboards-yellow)  
-![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![Python](https://img.shields.io/badge/BI-Dashboards-yellow)  
+![Fortinet](https://img.shields.io/badge/Git-Version%20Control-red)
 
 ---
 
