@@ -77,6 +77,9 @@ Jornada completa
 **Funciones destacadas:**
 - Apoyo en monitoreo y documentación de variables de control de procesos industriales.
 - Colaboración en actividades de mejora continua dentro de planta.
+
+---
+
 ## 🧩 Habilidades Técnicas
 
 - Redes LAN/WAN, Routing & Switching (Cisco, MikroTik, Ubiquiti)  
@@ -110,8 +113,8 @@ Jornada completa
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)  
 ![Linux](https://img.shields.io/badge/Linux-Shell-brightgreen)   
 ![VMware](https://img.shields.io/badge/VMware-Virtualization-orange)  
-![Python](https://img.shields.io/badge/BI-Dashboards-yellow)  
-![Fortinet](https://img.shields.io/badge/Git-Version%20Control-red)
+![Python](https://img.shields.io/badge/Python-Scripting-yellow)  
+![Fortinet](https://img.shields.io/badge/Fortinet-Firewalls-red)
 
 ---
 
