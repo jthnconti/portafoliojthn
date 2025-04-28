@@ -9,6 +9,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: Ejecutar Tests
       run: |
-        cd jonathan-alvarez/tests
+        cd /tests
         python3 test_posts.py
         python3 test_users.py
