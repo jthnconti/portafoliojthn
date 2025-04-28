@@ -1,7 +1,53 @@
-title: Jonathan Alvarez Coloma
-logo: logo.jpg
-show_downloads: true
-##theme: jekyll-theme-minimal
+title: Jonathan Alvarez - Especialista en Redes y Ciberseguridad
+description: Portafolio profesional de Jonathan Alvarez, docente y especialista en redes, ciberseguridad y educación tecnológica
+
+baseurl: "" 
+url: "https://digitec-conexion.github.io"
+
 remote_theme: pages-themes/hacker@v0.2.0
+
+# Configuración esencial para plugins
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-data
+  - jekyll-feed  # Recomendado añadir para RSS
+
+# Configuración de defaults
+defaults:
+  - scope:
+      path: ""  # Todos los archivos
+    values:
+      layout: default
+  - scope:
+      path: "./jonathan-alvarez/_data"  # Especifica que los archivos JSON son datos
+    values:
+      layout: null  # No usar layout para archivos de datos
+
+# Configuración de procesamiento
+markdown: kramdown
+highlighter: rouge
+sass:
+  style: compressed
+
+# Configuración de datos
+
+data_source: "/portafolio_grupo_D_uc/jonathan-alvarez/_data"
+collections:
+  data:
+    output: false
+    path: "/portafolio_grupo_D_uc/jonathan-alvarez/_data"
+
+include:
+  - "/portafolio_grupo_D_uc/jonathan-alvarez/_data/education.json"
+  - "/portafolio_grupo_D_uc/jonathan-alvarez/_data/experience.json"
+  - "/portafolio_grupo_D_uc/jonathan-alvarez/_data/projects.json"
+  - "/portafolio_grupo_D_uc/jonathan-alvarez/_data/skills.json"
+# Configuración personalizada
+social:
+  linkedin: jonathan-ac28
+  email: jalvarezc@tecsup.edu.pe
+  github: jthnconti  # Añadido para enlace a GitHub
+
+# Configuración específica para GitHub Pages
+github: [metadata]
