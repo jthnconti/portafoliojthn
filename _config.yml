@@ -6,6 +6,11 @@ url: "https://jthnconti.github.io/portafoliojthn"
 
 remote_theme: pages-themes/hacker@v0.2.0
 
+static_files:
+  - assets/
+  - assets/css/
+  - assets/images/
+
 # Configuración esencial para plugins
 plugins:
   - jekyll-remote-theme
