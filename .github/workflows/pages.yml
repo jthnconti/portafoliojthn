@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy Jekyll to GitHub Pages
 on:
   push:
     branches: [main]
@@ -7,6 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/configure-pages@v1
-      - run: echo "Hello World" > docs/index.html  # Reemplaza con tu build real
-      - uses: actions/deploy-pages@v1
+      - uses: helaili/jekyll-action@2.2.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: develop  # Rama para el despliegue
