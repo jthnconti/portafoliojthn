@@ -15,19 +15,8 @@ static_files:
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-data
   - jekyll-feed
 
-# Configuración de defaults
-defaults:
-  - scope:
-      path: ""  # Todos los archivos
-    values:
-      layout: default
-  - scope:
-      path: "_data"  # Archivos JSON son datos
-    values:
-      layout: null
 
 # Configuración de procesamiento
 markdown: kramdown
@@ -36,11 +25,8 @@ sass:
   style: compressed
 
 # Configuración de datos
-data_source: "_data"
-collections:
-  data:
-    output: false
-    path: "_data"
+# Carga de datos
+data_dir: "_data"
 
 include:
   - "_data/education.json"
