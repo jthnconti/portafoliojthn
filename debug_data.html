@@ -2,11 +2,25 @@
 layout: none
 ---
 <pre>
-Debug Info:
-BaseURL: {{ site.baseurl }}
-Data source: {{ site.data_source }}
-Data files:
-{% for file in site.data %}
-- {{ file[0] }}: {% if file[1] %}✅{% else %}❌{% endif %}
-{% endfor %}
+DEBUG PARA ESTRUCTURA GRUPAL:
+• Ruta completa: {{ site.url }}{{ site.baseurl }}
+• Directorio actual: {{ __dir__ | split: '/' | last }}
+• Entorno: {{ jekyll.environment }}
+
+DATOS CARGADOS:
+
+{% if site.data[data_path] %}
+  ✅ Datos cargados correctamente desde:
+  {{ data_path }}
+  
+  Archivos detectados:
+  {% for file in site.data[data_path] %}
+  - {{ file[0] }}: {{ file[1].size }} items
+  {% endfor %}
+{% else %}
+❌ ERROR: No se detectaron datos. Verifica:
+1. La ruta exacta: {{ data_path }}
+2. Permisos en GitHub
+3. Sintaxis de los JSON
+{% endif %}
 </pre>
